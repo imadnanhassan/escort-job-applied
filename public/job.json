@@ -1,0 +1,116 @@
+[
+   {
+      "id": "1",
+      "logo": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/com-2.jpg",
+      "title": "Software Developer",
+      "company_name": "XYZ Tech Inc.",
+      "jobtype": "Remote",
+      "location": "Any",
+      "time": "Full-time",
+      "Salary": "$80,000 - $100,000 per year",
+      "job_description": "We are seeking an experienced Software Developer to join our team. The ideal candidate should have strong programming skills in Java and experience with web application development.",
+      "job_responsibility": "Responsibilities include designing and implementing software applications, debugging and fixing defects, collaborating with cross-functional teams, and providing technical support.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3-5 years of relevant work experience",
+      "contact_information": {
+         "phone": "123-456-7890",
+         "email": "jobs@xyztech.com",
+         "address": "1234 Elm Street, Suite 567, Anytown, USA"
+      }
+   },
+   {
+      "id": "2",
+      "logo": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/com-1.jpg",
+      "title": "Marketing Specialist",
+      "company_name": "ABC Marketing Agency",
+      "jobtype": "Onsite",
+      "location": "New York City, NY",
+      "time": "Full-time",
+      "Salary": "$50,000 - $60,000 per year",
+      "job_description": "We are looking for a talented Marketing Specialist to support our marketing initiatives. The successful candidate will have experience in digital marketing, content creation, and campaign management.",
+      "job_responsibility": "Responsibilities include developing and implementing marketing strategies, creating engaging content for social media, analyzing campaign performance, and managing marketing campaigns.",
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "1-3 years of relevant work experience",
+      "contact_information": {
+         "phone": "987-654-3210",
+         "email": "careers@abcmarketing.com",
+         "address": "5678 Maple Avenue, Suite 890, New York City, NY, USA"
+      }
+   },
+   {
+      "id": "3",
+      "logo": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/com-3.jpg",
+      "title": "Data Scientist",
+      "company_name": "Data Insights Inc.",
+      "jobtype": "Remote",
+      "location": "Any",
+      "time": "Part-time",
+      "Salary": "$60 - $80 per hour",
+      "job_description": "We are seeking a skilled Data Scientist to analyze and interpret complex data sets. The successful candidate will have expertise in machine learning algorithms, data visualization, and statistical analysis.",
+      "job_responsibility": "Responsibilities include cleaning and transforming data, developing predictive models, interpreting results, and presenting findings to stakeholders.",
+      "educational_requirements": "Master's degree or higher in a related field",
+      "experiences": "3-5 years of relevant work experience",
+      "contact_information": {
+         "phone": "555-123-4567",
+         "email": "jobs@datainsights.com",
+         "address": "7890 Oak Street, Suite 123, Anytown, USA"
+      }
+   },
+   {
+      "id": "4",
+      "logo": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/com-4.jpg",
+      "title": "Graphic Designer",
+      "company_name": "Design Solutions LLC",
+      "jobtype": "Onsite",
+      "location": "Los Angeles, CA",
+      "time": "Full-time",
+      "Salary": "$50,000 - $70,000 per year",
+      "job_description": "We are looking for a creative Graphic Designer to join our design team. The ideal candidate should have a strong portfolio of design work, including branding, print and digital media, and UX/UI design.",
+      "job_responsibility": "Responsibilities include designing and creating visual assets, collaborating with clients and team members, and ensuring brand consistency across all design materials.",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+      "experiences": "2-4 years of relevant work experience",
+      "contact_information": {
+         "phone": "789-456-1230",
+         "email": "careers@designsolutions.com",
+         "address": "4567 Pine Avenue, Suite 890, Los Angeles, CA, USA"
+      }
+   },
+   {
+      "id": "5",
+      "logo": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/com-7.jpg",
+      "title": "HR Manager",
+      "company_name": "HR Solutions Inc.",
+      "jobtype": "Onsite",
+      "location": "Chicago, IL",
+      "time": "Full-time",
+      "Salary": "$70,000 - $90,000 per year",
+      "job_description": "We are seeking an experienced HR Manager to oversee all aspects of human resources operations. The successful candidate will have strong knowledge of HR policies, labor laws, and employee relations.",
+      "job_responsibility": "Responsibilities include managing recruitment and hiring processes, developing and implementing HR policies and procedures, providing guidance on employee relations issues, and managing performance evaluations.",
+      "educational_requirements": "Bachelor's degree in Human Resources or related field",
+      "experiences": "5-7 years of relevant work experience",
+      "contact_information": {
+         "phone": "321-987-6543",
+         "email": "jobs@hrsolutions.com",
+         "address": "1234 Oakwood Drive, Suite 567, Chicago, IL, USA"
+      }
+   },
+   {
+      "id": "6",
+      "logo": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/com-2.jpg",
+      "title": "Customer Service Representative",
+      "company_name": "Customer Care Inc.",
+      "jobtype": "Onsite",
+      "location": "Miami, FL",
+      "time": "Part-time",
+      "Salary": "$15 - $18 per hour",
+      "job_description": "We are looking for friendly and professional Customer Service Representatives to provide excellent service to our customers. The ideal candidate should have excellent communication skills, problem-solving abilities, and ability to handle customer inquiries.",
+      "job_responsibility": "Responsibilities include answering customer inquiries via phone, email, and chat, resolving customer issues, maintaining customer records, and providing exceptional service at all times.",
+      "educational_requirements": "High school diploma or equivalent",
+      "experiences": "1-2 years of customer service experience",
+      "contact_information": {
+         "phone": "888-555-1234",
+         "email": "careers@customercare.com",
+         "address": "5678 Palm Street, Suite 890, Miami, FL, USA"
+      }
+   }
+]

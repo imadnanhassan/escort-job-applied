@@ -1,0 +1,26 @@
+[
+   {
+      "id": "1",
+      "title": "Account & Finance",
+      "jobs_available": 25,
+      "icon": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/cat-1.png"
+   },
+   {
+      "id": "2",
+      "title": "Marketing & Sales",
+      "jobs_available": 55,
+      "icon": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/cat-4.png"
+   },
+   {
+      "id": "3",
+      "title": "Web Develoepr",
+      "jobs_available": 44,
+      "icon": "https://themezhub.net/job-stock-v5.3/job-stock/assets/img/cat-7.png"
+   },
+   {
+      "id": "4",
+      "title": "Engineering Job",
+      "jobs_available": 75,
+      "icon": "https://cdn-icons-png.flaticon.com/512/5103/5103455.png"
+   }
+]
