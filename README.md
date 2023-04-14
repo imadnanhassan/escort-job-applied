@@ -1,8 +1,8 @@
-# jobStock
+# Escort
 This is Escort Website for Job Applycation 
 
 ## Live Link
-Hosted in Netlify -> [jobStock]('')
+Hosted in Netlify -> [Escort](https://jobstock-jobapplied-react-template.netlify.app/)
 
 ## React Router Dom v6.4 
 Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
