@@ -48,26 +48,7 @@ const Statistics = () => {
    return (
       <div>
          <StatisticsBanner></StatisticsBanner>
-         <div className='text-center'>
-
-            <div className='flex items-center justify-center'>
-               <ResponsiveContainer width="100%" aspect={3}>
-                  <LineChart data={pdata} margin={{ right: 100 }}>
-                     <CartesianGrid />
-                     <XAxis dataKey="name"
-                        interval={'preserveStartEnd'} />
-                     <YAxis></YAxis>
-                     <Legend />
-                     <Tooltip />
-                     <Line dataKey="marks"
-                        stroke="black" activeDot={{ r: 8 }} />
-
-                  </LineChart>
-               </ResponsiveContainer>
-
-            </div>
-
-         </div>
+         
       </div>
    );
 };

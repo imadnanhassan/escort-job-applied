@@ -5,7 +5,7 @@ const StatisticsBanner = () => {
       <div>
          <div className='container mx-auto py-14'>
             <h1 className='text-2xl w-full lg:leading-tight sm:text-4xl lg:text-6xl title-text py-2 text-center'>
-               Assignment Marks
+               Coming Soon
             </h1>
          </div>
       </div>

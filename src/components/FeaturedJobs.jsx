@@ -5,9 +5,9 @@ import SingleJobCart from './SingleJobCart';
 const FeaturedJobs = () => {
    const job = useLoaderData();
    const [jobDetails, setJobDetails] = useState(job)
-   const [index, setindex] = useState(4)
+   const [index, setindex] = useState(6)
    const showAllJob = () => {
-      if (index === 4) {
+      if (index === 6) {
          setindex(job.length)
       }
       else {
@@ -27,7 +27,7 @@ const FeaturedJobs = () => {
                }
             </div>
             <div className='flex justify-center mt-6'>
-               <button onClick={showAllJob} className='title-text  py-3 px-9  rounded border'>{index === 4 ? 'See All Jobs' : 'View Less Jobs'}</button>
+               <button onClick={showAllJob} className='title-text  py-3 px-9  rounded border'>{index === 6 ? 'See All Jobs' : 'View Less Jobs'}</button>
             </div>
          </div>
       </div>
