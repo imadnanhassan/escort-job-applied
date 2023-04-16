@@ -46,7 +46,7 @@ const AppliedJob = () => {
                   </div>
                ))
             ) : (
-               <h1 className="text-xl text-center text-red-500">No Order Found</h1>
+               <h1 className="text-xl text-center text-red-500">ভাই তুমি কোনো জব এপলাই করো নাই </h1>
             )}
          </div></>
    );
